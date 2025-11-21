@@ -1,8 +1,8 @@
 import streamlit as st
 st.set_page_config(page_title="Sesion 2 | ISIL", layout="centered")
-st.title("Desarrollo de la IA | Timeline")
-st.write("Autor: Jesus Alvarado Huayhuaz | ISIL")
-st.write("Interactúa con la barra deslizante para explorar los hitos más importantes en la historia de la IA.")
+st.title("Modelo de Predicción LSTM para Abastecimiento Periódico | Timeline")
+st.write("Autor: Marcelo Martin Herrera Yoplack| BCP")
+st.write("Interactúa con la barra deslizante para explorar los hitos más importantes en la historia de la evolución del modelo LSTM.")
 # URLs de imágenes en GitHub
 base_url = "https://raw.githubusercontent.com/jaalvaradoh/timeline_s2/main/timeline_images/"
 imagenes = {
